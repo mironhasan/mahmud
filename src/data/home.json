@@ -1,0 +1,136 @@
+{
+    "service": {
+        "section": {
+            "icon": "fa-solid fa-screwdriver-wrench",
+            "name": "services",
+            "title": "These services will make you feel more better"
+        },
+        "cards": [
+            {
+                "icon": "fa-solid fa-photo-film",
+                "title": "design conversion",
+                "descrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit porro facere hic aliquid repudiandae optio necessitatibus",
+                "features": [
+                    "Reusable frontend coding structure", 
+                    "Saves backend developers time", 
+                    "Exact match to design file"
+                ]
+            },
+            {
+                "icon": "fa-solid fa-masks-theater",
+                "title": "reactive application",
+                "descrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit porro facere hic aliquid repudiandae optio necessitatibus",
+                "features": [
+                    "Reusable frontend coding structure", 
+                    "Saves backend developers time", 
+                    "Exact match to design file"
+                ]
+            },
+            {
+                "icon": "fa-solid fa-gifts",
+                "title": "frontend frameworks",
+                "descrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit porro facere hic aliquid repudiandae optio necessitatibus",
+                "features": [
+                    "Reusable frontend coding structure", 
+                    "Saves backend developers time", 
+                    "Exact match to design file"
+                ]
+            },
+            {
+                "icon": "fa-solid fa-file-shield",
+                "title": "sass preprocessor",
+                "descrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit porro facere hic aliquid repudiandae optio necessitatibus",
+                "features": [
+                    "Reusable frontend coding structure", 
+                    "Saves backend developers time", 
+                    "Exact match to design file"
+                ]
+            },
+            {
+                "icon": "fa-solid fa-flask-vial",
+                "title": "tailwind technology",
+                "descrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit porro facere hic aliquid repudiandae optio necessitatibus",
+                "features": [
+                    "Reusable frontend coding structure", 
+                    "Saves backend developers time", 
+                    "Exact match to design file"
+                ]
+            },
+            {
+                "icon": "fa-solid fa-boxes-packing",
+                "title": "wordpress support",
+                "descrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit porro facere hic aliquid repudiandae optio necessitatibus",
+                "features": [
+                    "Reusable frontend coding structure", 
+                    "Saves backend developers time", 
+                    "Exact match to design file"
+                ]
+            }
+        ]
+    },
+    "resume": {
+        "section": {
+            "icon": "fa-solid fa-graduation-cap",
+            "name": "resume",
+            "title": "Some basic information about myself"
+        }
+    },
+    "experience": [
+        {
+            "profile": {
+                "logo": "images/logo/xpeedstudio.png",
+                "size": "w-10",
+                "name": "xpeedstudio",
+                "url": "https://xpeedstudio.com/"
+            },
+            "title": "probational Frontend Developer",
+            "duration": "Februray 2019 - April 2020",
+            "describe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took.",
+            "projects": [
+                { 
+                    "project": "images/projects/turitor.jpg", 
+                    "tool": "images/tools/html.png",
+                    "url": "https://mironmahmud.com/turitor/"
+                },
+                { 
+                    "project": "images/projects/bizzcory.jpg", 
+                    "tool": "images/tools/html.png",
+                    "url": "https://mironmahmud.com/bizzcory/"
+                },
+                { 
+                    "project": "images/projects/couree.jpg", 
+                    "tool": "images/tools/html.png",
+                    "url": "https://mironmahmud.com/couree/"
+                }
+            ]
+        },
+        {
+            "logo": { 
+                "url": "https://xpeedstudio.com/", 
+                "src": "images/logo/iconinfotech.png", 
+                "size": "w-10" 
+            },
+            "title": "Internee Frontend Developer",
+            "name": "icon-infotech",
+            "duration": "Februray 2019 - April 2020",
+            "describe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took.",
+            "projects": [
+                { 
+                    "project": "images/projects/turitor.jpg", 
+                    "tool": "images/tools/html.png",
+                    "url": "https://mironmahmud.com/turitor/"
+                },
+                { 
+                    "project": "images/projects/bizzcory.jpg", 
+                    "tool": "images/tools/html.png",
+                    "url": "https://mironmahmud.com/bizzcory/"
+                },
+                { 
+                    "project": "images/projects/couree.jpg", 
+                    "tool": "images/tools/html.png",
+                    "url": "https://mironmahmud.com/couree/"
+                }
+            ]
+        }
+    ]
+}
